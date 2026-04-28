@@ -77,7 +77,39 @@ Use targeted campaigns to increase repeat purchases
 /sql → queries
 /dashboard → BI files
 /images → screenshots
-🧠 Conclusion
+Raw Dataset (CSV files)
+        ↓
+Data Cleaning & Preprocessing (Python - Pandas)
+        ↓
+Data Storage (PostgreSQL / MySQL)
+        ↓
+Data Analysis (SQL Queries)
+        ↓
+Data Visualization (Power BI / Tableau)
+        ↓
+Business Insights & Recommendations
+Key Business Insights
+Customer Behavior
+A small percentage of customers contributes a large portion of total revenue, indicating strong dependence on repeat buyers
+Repeat customers show higher average order value compared to new customers
+Sales Performance
+Certain product categories consistently generate the highest revenue and should be prioritized
+Sales show seasonal trends, indicating opportunities for targeted campaigns
+Geographic Insights
+Some regions contribute significantly more to revenue, while others remain underdeveloped
+Expansion opportunities exist in low-performing regions
+Operations & Delivery
+Delivery delays are correlated with lower customer satisfaction
+Faster delivery improves customer retention
+Payment Behavior
+Specific payment methods dominate transactions and influence purchase decisions
+BUSINESS RECOMMENDATIONS
+Focus marketing campaigns on high-value and repeat customers
+Invest more in top-performing product categories
+Improve logistics in regions with delayed deliveries
+Run targeted promotions in underperforming regions
+Optimize delivery time to increase customer satisfaction and retention
+Conclusion
 
 This project demonstrates how data can be transformed into actionable insights to improve sales performance, customer retention, and business strategy.
 https://drive.google.com/drive/folders/1utglHAgNYlWBKJOdaBLxR2llwnB8cHRk?usp=drive_link
